@@ -64,7 +64,7 @@
         </article>
         <article class="news-item">
           <img src="img/news.png">
-          <p>hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. </p>
+          <p>hello. hello. hello. jijijijihello. hello. hello. hello. hello. hello. hello. hello. hello. hello. hello. </p>
         </article>
       </div>
     </div>
