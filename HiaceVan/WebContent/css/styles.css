@@ -83,6 +83,9 @@ header h1 {
   margin-bottom: 60px;
 }
 
+.btn {
+	text-align: center;
+}
 .news-item img {
   width: 100%;
 }
