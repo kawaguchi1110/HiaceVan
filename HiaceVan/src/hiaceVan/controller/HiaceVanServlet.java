@@ -35,7 +35,7 @@ public class HiaceVanServlet extends HttpServlet {
 	    request.setAttribute("foo", "bar");
 
 	    // JSPにforward
-	    String view = "/WEB-INF/view/index.jsp";
+	    String view = "/WEB-INF/view/data.jsp";
 	    RequestDispatcher dispatcher = request.getRequestDispatcher(view);
 
 	    dispatcher.forward(request, response);
